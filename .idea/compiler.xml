@@ -2,9 +2,6 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="Collect-Callers-Data.Collect-Callers-Data" target="17" />
-      <module name="Collect-Callers-Data.Collect-Callers-Data.main" target="17" />
-      <module name="Collect-Callers-Data.Collect-Callers-Data.test" target="17" />
       <module name="Collect-Callers-Data.main" target="11" />
       <module name="Collect-Callers-Data.test" target="11" />
     </bytecodeTargetLevel>

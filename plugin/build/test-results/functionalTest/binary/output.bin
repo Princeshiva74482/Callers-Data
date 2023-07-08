@@ -1,0 +1,6 @@
+
+> Task :greeting
+)Hello from plugin 'callers.data.greeting'
+
+BUILD SUCCESSFUL in 6s
+1 actionable task: 1 executed

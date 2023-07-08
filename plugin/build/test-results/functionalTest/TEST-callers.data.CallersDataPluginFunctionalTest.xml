@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="callers.data.CallersDataPluginFunctionalTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-08T13:19:26" hostname="LAPTOP-DHOE90V4" time="7.746">
+  <properties/>
+  <testcase name="canRunTask()" classname="callers.data.CallersDataPluginFunctionalTest" time="7.746"/>
+  <system-out><![CDATA[
+> Task :greeting
+Hello from plugin 'callers.data.greeting'
+
+BUILD SUCCESSFUL in 6s
+1 actionable task: 1 executed
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
